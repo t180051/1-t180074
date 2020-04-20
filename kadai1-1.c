@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-int f(int x) 
-{ 
-    return x*x; 
-}
+int f(int x) { return x*x;}
 
 int main ()
 {
